@@ -1,6 +1,7 @@
 # eBay NER Machine Learning Challenge
 
 NER labeling for handbag dataset
+
 Baseline F1 Score to beat: 0.800
 
 ## Model 2.3
