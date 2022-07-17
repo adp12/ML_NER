@@ -5,9 +5,7 @@ NER labeling for handbag dataset
 Baseline F1 Score to beat: 0.800
 
 ## Model 2.3
-Method - 2 Bidirectional LSTMs for main
-
-       - Time Distributed LSTM to capture character positioning
+Method - 2 Bidirectional LSTMs for main and Time Distributed LSTM to capture character positioning
        
 Inputs - Word Embeddings, POS embeddings, Character encoding from LSTM
 
